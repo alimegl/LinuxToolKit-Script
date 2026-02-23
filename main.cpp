@@ -10,7 +10,7 @@ int main() {
         std::cout << "2. Enable HDD Sleep for /dev/sda drive on Debian based system (tested on Ubuntu) NOT IMPLEMENTED YET" << std::endl;
         std::cout << "3. Reboot system" << std::endl;
         std::cout << "4. Fastfetch/Neofetch your system" << std::endl;
-        std::cout << "5. Install samba and insert samba config and configure samba server" << std::endl;
+        std::cout << "5. Install samba and insert samba config and configure samba server (Configured for root user)" << std::endl;
         std::cout << "6. Install AMP (A Server Management Panel) (MAKE SURE UR LOGGED IN AS sudo su -)" << std::endl;
         std::cout << "7. Install screen, openssh-server, cockpit, cockpit-machines and default-jdk" << std::endl;
         std::cout << "8. Upgrade Ubuntu" << std::endl;
