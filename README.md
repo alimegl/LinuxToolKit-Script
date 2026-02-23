@@ -1,4 +1,4 @@
-#LinuxToolKit-Automated Script
+# LinuxToolKit-Automated Script
 
 I'm just using this script to autmatically:
 
