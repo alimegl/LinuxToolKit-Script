@@ -46,7 +46,7 @@ int main() {
             system_upgrade();
             break;
         case 9:
-            return(0);
+            exit(0);
         default:
             std::cout << std::endl << "\033[31mWrong choice, try again\033[0m\n" << std::endl;
             std::cout << std::endl;
