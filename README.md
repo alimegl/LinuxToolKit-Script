@@ -12,5 +12,6 @@ If you want to use this script, make sure that it runs as sudo
 
 
 Dependencies:
-- Just the g++ compiler
+- G++ compiler
+- make
 - GNU/Linux (Debian based distro prefered for some stuff working as expected)
