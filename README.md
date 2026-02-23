@@ -10,3 +10,6 @@ I'm just using this script for my GNU/Linux Server to autmatically:
 
 If you want to use this script, make sure that it runs as root (sudo su -)
 
+
+Dependencies:
+- Just the g++ compiler
