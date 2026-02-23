@@ -8,7 +8,7 @@ I'm just using this script for my GNU/Linux Server to autmatically:
 - Install common tools that I need, like OpenJDK, btop, hd-idle, etc...
 - and more comming.
 
-If you want to use this script, make sure that it runs as root (sudo su -)
+If you want to use this script, make sure that it runs as sudo
 
 
 Dependencies:
