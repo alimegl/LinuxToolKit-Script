@@ -1,6 +1,6 @@
 # LinuxToolKit-Automated Script
 
-I'm just using this script for my GNU/Linux Server to autmatically:
+I'm just using this script for my GNU/Linux Server to automatically:
 
 - Update Ubuntu/Debian base
 - Do an Ubuntu release upgrade
