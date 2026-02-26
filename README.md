@@ -15,3 +15,6 @@ Dependencies:
 - G++ compiler
 - make
 - GNU/Linux (Debian based distro prefered for some stuff working as expected)
+
+
+Have fun!
