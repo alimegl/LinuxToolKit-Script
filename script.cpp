@@ -1,6 +1,20 @@
 #include "script.h"
 #include <iostream>
 
+void show_menu_options() {
+    std::cout << "What would you want to do?" << std::endl << std::endl;
+    std::cout << "1. Update the system" << std::endl;
+    std::cout << "2. Enable HDD Sleep for /dev/sda drive on Debian based system (tested on Ubuntu) NOT IMPLEMENTED YET" << std::endl;
+    std::cout << "3. Reboot system" << std::endl;
+    std::cout << "4. Fastfetch/Neofetch your system" << std::endl;
+    std::cout << "5. Install samba and insert samba config and configure samba server (Configured for root user)" << std::endl;
+    std::cout << "6. Install AMP (A Server Management Panel) (MAKE SURE UR LOGGED IN AS sudo su -)" << std::endl;
+    std::cout << "7. Install screen, openssh-server, cockpit, cockpit-machines and default-jdk" << std::endl;
+    std::cout << "8. Upgrade Ubuntu" << std::endl;
+    std::cout << "9. Exit the tool" << std::endl;
+    std::cout << "Enter your choice (1-9): ";
+}
+
 void write_to_hdd_sleep() {
     system("sudo apt update && sudo apt install hd-idle -y");
 }
